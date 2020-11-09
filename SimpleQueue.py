@@ -1,5 +1,3 @@
-""" Integrante: Facundo San Juan"""
-
 from namedlist import namedlist
 
 
