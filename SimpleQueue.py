@@ -110,13 +110,3 @@ class Queue():
         else:
             print("Cola sin elementos")
             
-
-""" VENTAJAS RECURSIVIDAD: Solucion de un problema recurrente, necesitan
-menor cantidad de lineas de codigo.
-DESVENTAJA RECURSIVIDAD: Mayor necesidad de espacio en la memoria.
-VENTAJA ITERACION: Mayor eficiencia en la utilizacion de memoria.
-DESVENTAJA ITERACION: Codigo menos legible que la recursividad, mayor utilizacion
-de bucles. """
-
-
-
